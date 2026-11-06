@@ -21,6 +21,9 @@ Visit my website [jonas-pedrotti.com](https://jonas-pedrotti.com/design/webdesig
 - [Felix Rier](https://www.felixrier.com)
 - [SIUS Brewing](https://siusbrewing.com)
 - [Hofer Market](https://www.hofermarket.it)
+- [Unterstandroa](https://www.unterstandroa.it)
+- [Jamicos](https://www.jamicos.at)
+- [Alan Clara](https://www.alanclara.com)
 
 ## Links
 
