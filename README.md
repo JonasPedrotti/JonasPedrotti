@@ -4,7 +4,7 @@
 
 Freelance designer and web developer with a passion for modern web technologies and clean code.
 
-Visit my website [jonas-pedrotti.com](https://jonas-pedrotti.com/design/webdesign)
+Visit my website [jonas-pedrotti.com](https://jonas-pedrotti.com/en/)
 
 ## Tech Stack
 
@@ -32,4 +32,4 @@ Visit my website [jonas-pedrotti.com](https://jonas-pedrotti.com/design/webdesig
 
 ## Contact
 
-Reach me via my [Website](https://jonas-pedrotti.com/about)
+Reach me via my [Website](https://jonas-pedrotti.com/en/contact/)
